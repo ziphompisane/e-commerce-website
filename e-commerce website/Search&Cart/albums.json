@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Kelvin Momo- Kurhula",
+        "price": 150,
+        "image": "images/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kelvin Momo- Amukelani",
+        "price": 75,
+        "image": "images/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kelvin Momo- Ivy League",
+        "price": 100,
+        "image": "images/3.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "YE - Vultures",
+        "price": 200,
+        "image": "images/4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Drake -  For All The DOgs",
+        "price": 250,
+        "image": "images/5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Drake - Her Loss",
+        "price": 120,
+        "image": "images/6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "50 Cent- Get Rich or Die Tryin",
+        "price": 120,
+        "image": "images/7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "The Miseducation of Lauryn Hill",
+        "price": 500,
+        "image": "images/9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Chris Stapleton - Traveller ",
+        "price": 120,
+        "image": "images/11.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Chris Stapleton - Higher",
+        "price": 225,
+        "image": "images/12.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Beyonce - CowBoy Carter",
+        "price": 200,
+        "image": "images/13.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Burna Boy - African Giant",
+        "price": 120,
+        "image": "images/14.jpg"
+    },
+    {
+        "id":13 ,
+        "name": "Wizkid - Made In Lagos",
+        "price": 120,
+        "image": "images/16.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Prince- Sign O' The Times",
+        "price": 320,
+        "image": "images/17.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Michael Jackson -Thrille",
+        "price": 350,
+        "image": "images/18.jpg"
+    },
+    
+    {
+        "id": 16,
+        "name": "Tupac - All eyez on Me",
+        "price": 350,
+        "image": "images/10.jpg"
+    }
+    
+]
